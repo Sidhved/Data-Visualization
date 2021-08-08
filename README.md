@@ -15,10 +15,10 @@
 
 ## Visuals
 - Firstly, we prepare a canvas to plot our data in the shape of a football field as shown below.<br>
-![Pitch](Images_Data\Pitch.png)<br>
+![Pitch]('Images_Data\Pitch.png')<br>
 - Now we will plot Passes in form of vector and also analyze the density of pass origin using a kdeplot.<br>
-![PassMap](Images_Data\Passes1.png) ![kdePlot]('Images_Data\Passes2.png')<br>
-![Combined](Images_Data\Passes3.png)<br>
+![PassMap](https://github.com/Sidhved/Data-Visualization/blob/main/Images_Data/Passes1.png) ![kdePlot]('Images_Data\Passes2.png')<br>
+![Combined]('Images_Data\Passes3.png')<br>
 - Now let's target a particular team (here, FCB) and observe the patterns in the shots attempted using the vectors.<br>
 ![Shots](Images_Data\Shots1.png)<br>
 - We can easily conclude from the above image that maximum shots on target were originated within the 6-yard box. Let us understand this more clearly using the color coordinated scatter plot shown below. The red dots represents the origin place of the shots that were able to meet the back net whereas the blue ones were either deflected, saved by the keeper, or simply off-target.<br>
